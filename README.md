@@ -4,7 +4,9 @@
 
 <br>
 
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=252525&logo=html5&logoColor=E34F26"/></a>
+<h2 align="center">## 🛠️ Technologies and Tools 🛠️</h2>
+
+<span><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=252525&logo=html5&logoColor=E34F26"/></span>
 <img display="flex" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=252525&logo=css3&logoColor=1572B6"/>
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=252525&logo=javascript&logoColor=F0DB4F"/>
 <img alt="Django" src="https://img.shields.io/badge/-Django-2baa77?style=for-the-badge&labelColor=252525&logo=django&logoColor=2baa77"/>
