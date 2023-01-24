@@ -1,4 +1,4 @@
-![Banner](https://github.com/vkoudela-dev/vkoudela-dev/blob/main/banner2.gif)
+![Banner](./banner2.gif)
 
 # Hi, I'm Vlad.
 I finally found a new passion! Do you know what I mean? It's programming🤩<br>
@@ -31,7 +31,7 @@ I love to be challenged and never stop learning. Even the best developers can't 
 If you want to find out more about any web app listed below, click on the specific gif you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.<br><br>
 If you want to see the code of the specific app, click the adequate link below:
 
-- [Email app](https://github.com/vkoudela-dev/Final-project)
+- [Email app](../../../Final-project)
 - [Wikipedia app](https://github.com/vkoudela-dev/Final-project)
 - [Google Search app](https://github.com/vkoudela-dev/Final-project)
 - [Auctions app](https://github.com/vkoudela-dev/Final-project)
