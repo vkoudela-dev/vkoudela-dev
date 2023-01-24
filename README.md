@@ -34,9 +34,9 @@ If you want to find out more about any web app listed below, click on the specif
 <br><br>
   
 [<img align="left" width="600px" alt="Email app" src="./Email.gif"/>Email app](https://youtu.be/jdUaORkFudY "Go to YouTube")
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 [<img align="right" width="600px" alt="Wikipedia app" src="./Wiki.gif"/>Wikipedia app](https://youtu.be/1Jglvtvehds "Go to YouTube")
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 [<img align="left" width="600px" alt="Google Search app" src="./Google.gif"/>Google Search app](https://youtu.be/34wsqYJJmtA "Go to YouTube")
 </h3>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -46,9 +46,9 @@ If you want to find out more about any web app listed below, click on the specif
 <h3 align="center">Web apps built in Django and Vanilla Javascript
 <br><br>
   
-[<img align="center" width="600px" alt="Auctions app" src="./Auctions.gif"/>Auctions app](https://youtu.be/kocBcJBA6eo "Go to YouTube")
-<br><br>
-[<img align="center" width="600px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
-<br><br>
-[<img align="center" width="600px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
+[<img align="left" width="600px" alt="Auctions app" src="./Auctions.gif"/>Auctions app](https://youtu.be/kocBcJBA6eo "Go to YouTube")
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+[<img align="right" width="600px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+[<img align="left" width="600px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
 </h3>
