@@ -28,9 +28,15 @@ I love to be challenged and never stop learning. Even the best developers can't 
 
 <h2 align="center">💻 My Work 💻</h2>
 <br>
-If you want to find out more about any web app listed below, click on the specific gif you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.
-If you want to see the code, click the adequate link below:
-- [Email]()
+If you want to find out more about any web app listed below, click on the specific gif you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.<br><br>
+If you want to see the code of the specific app, click the adequate link below:
+
+- [Email app](https://github.com/vkoudela-dev/Final-project)
+- [Wikipedia app](https://github.com/vkoudela-dev/Final-project)
+- [Google Search app](https://github.com/vkoudela-dev/Final-project)
+- [Auctions app](https://github.com/vkoudela-dev/Final-project)
+- [Twitter app](https://github.com/vkoudela-dev/Final-project)
+- [Banking app](https://github.com/vkoudela-dev/Final-project)
 
 <h3 align="center">Web apps built in Django
 <br><br>
