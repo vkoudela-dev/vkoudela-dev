@@ -1,7 +1,7 @@
 ![Banner](https://github.com/vkoudela-dev/vkoudela-dev/blob/main/banner2.gif)
 
 # Hi, I'm Vlad.
-I finally found a new passion! Do you know what I mean? It's programming🤩
+I finally found a new passion! Do you know what I mean? It's programming🤩<br>
 I love to be challenged and never stop learning. Even the best developers can't afford to rest on their laurels, or they're going to fade into obscurity.
 
 <br>
@@ -28,7 +28,9 @@ I love to be challenged and never stop learning. Even the best developers can't 
 
 <h2 align="center">💻 My Work 💻</h2>
 <br>
-If you want to find out more about any web app listed below, click on the specific app you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.
+If you want to find out more about any web app listed below, click on the specific gif you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.
+If you want to see the code, click the adequate link below:
+- [Email]()
 
 <h3 align="center">Web apps built in Django
 <br><br>
