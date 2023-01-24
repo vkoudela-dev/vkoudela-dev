@@ -1,7 +1,8 @@
 ![Banner](https://github.com/vkoudela-dev/vkoudela-dev/blob/main/banner2.gif)
 
 # Hi, I'm Vlad.
-I finally found a new passion! Do you know what I mean? It's programming.
+I finally found a new passion! Do you know what I mean? It's programming🤩
+I love to be challenged and never stop learning. Even the best developers can't afford to rest on their laurels, or they're going to fade into obscurity.
 
 <br>
 <hr>
@@ -26,3 +27,23 @@ I finally found a new passion! Do you know what I mean? It's programming.
 <br><br>
 
 <h2 align="center">💻 My Work 💻</h2>
+<br>
+If you want to find out more about any web app listed below, click on the specific app you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.
+
+<h3 align="center">Web apps built in Django
+<br><br>
+  
+[<img align="left" width="500px" alt="Email app" src="./Email.gif"/>Email app](https://youtu.be/jdUaORkFudY "Go to YouTube")
+[<img align="right" width="500px" alt="Wikipedia app" src="./Wiki.gif"/>Wikipedia app](https://youtu.be/1Jglvtvehds "Go to YouTube")
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+[<img align="center" width="500px" alt="Google Search app" src="./Google.gif"/>Google Search app](https://youtu.be/34wsqYJJmtA "Go to YouTube")
+</h3>
+<br><br>
+<h3 align="center">Web apps built in Django and Vanilla Javascript
+<br><br>
+  
+[<img align="left" width="500px" alt="Auctions app" src="./Auctions.gif"/>Auctions app](https://youtu.be/kocBcJBA6eo "Go to YouTube")
+[<img align="right" width="500px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+[<img align="center" width="500px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
+</h3>
