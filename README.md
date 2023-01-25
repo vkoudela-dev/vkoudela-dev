@@ -4,6 +4,9 @@
 I finally found a new passion! Do you know what I mean? It's programming🤩<br>
 I love to be challenged and never stop learning. Even the best developers can't afford to rest on their laurels, or they're going to fade into obscurity.
 
+Please, reach out to me via email:
+📭 vkoudela@hotmail.com
+
 <br>
 <hr>
 <br>
