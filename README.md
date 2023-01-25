@@ -35,8 +35,8 @@ If you want to see the code of the specific app, click the adequate link below:
 - [Wikipedia app](../../../wikipedia_app)
 - [Auctions app](../../../auctions_app)
 - [Email app](../../../email_app)
-- [Twitter app](https://github.com/vkoudela-dev/Final-project)
-- [Banking app](https://github.com/vkoudela-dev/Final-project)
+- [Twitter app](../../../twitter_app)
+- [Banking app](../../../banking_app)
 
 
 <h3 align="center">Web apps built in HTML and CSS
