@@ -67,4 +67,13 @@ If you want to see the code of the specific app, click the adequate link below:
 [<img align="right" width="600px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 [<img align="left" width="600px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</h3>
+
+<hr>
+
+<h3 align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkoudela-dev&hide=PowerShell,Batchfile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </h3>
