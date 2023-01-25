@@ -31,23 +31,31 @@ I love to be challenged and never stop learning. Even the best developers can't 
 If you want to find out more about any web app listed below, click on the specific gif you fancy and you will be redirected to a relevant YouTube video showing all features the app includes.<br><br>
 If you want to see the code of the specific app, click the adequate link below:
 
-- [Wikipedia app](https://github.com/vkoudela-dev/Final-project)
-- [Google Search app](https://github.com/vkoudela-dev/Final-project)
+- [Google Search app](../../../google_search_app)
+- [Wikipedia app](../../../wikipedia_app)
+- [Auctions app](../../../auctions_app)
 - [Email app](../../../email_app)
-- [Auctions app](https://github.com/vkoudela-dev/Final-project)
 - [Twitter app](https://github.com/vkoudela-dev/Final-project)
 - [Banking app](https://github.com/vkoudela-dev/Final-project)
+
+
+<h3 align="center">Web apps built in HTML and CSS
+<br><br>
+
+[<img align="center" width="600px" alt="Google Search app" src="./Google.gif"/>Google Search app](https://youtu.be/34wsqYJJmtA "Go to YouTube")
+</h3>
+<br><br>
+
+#
 
 <h3 align="center">Web apps built in Django
 <br><br>
   
-
+[<img align="left" width="600px" alt="Wikipedia app" src="./Wiki.gif"/>Wikipedia app](https://youtu.be/1Jglvtvehds "Go to YouTube")
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[<img align="right" width="600px" alt="Wikipedia app" src="./Wiki.gif"/>Wikipedia app](https://youtu.be/1Jglvtvehds "Go to YouTube")
+[<img align="right" width="600px" alt="Auctions app" src="./Auctions.gif"/>Auctions app](https://youtu.be/kocBcJBA6eo "Go to YouTube")
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[<img align="left" width="600px" alt="Google Search app" src="./Google.gif"/>Google Search app](https://youtu.be/34wsqYJJmtA "Go to YouTube")
 </h3>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #
 
@@ -56,9 +64,7 @@ If you want to see the code of the specific app, click the adequate link below:
 
 [<img align="left" width="600px" alt="Email app" src="./Email.gif"/>Email app](https://youtu.be/jdUaORkFudY "Go to YouTube")
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[<img align="right" width="600px" alt="Auctions app" src="./Auctions.gif"/>Auctions app](https://youtu.be/kocBcJBA6eo "Go to YouTube")
+[<img align="right" width="600px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[<img align="left" width="600px" alt="Twitter app" src="./Twitter.gif"/>Twitter app](https://youtu.be/yg75925LEmo "Go to YouTube")
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[<img align="right" width="600px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
+[<img align="left" width="600px" alt="Banking app" src="./Banking.gif"/>Banking app](https://youtu.be/R2ahzWQbR_Q "Go to YouTube")
 </h3>
