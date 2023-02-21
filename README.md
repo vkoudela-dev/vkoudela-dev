@@ -78,6 +78,6 @@ If you want to see the code of the specific app, click the adequate link below:
 
 <h3 align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkoudela-dev&hide=PowerShell,Batchfile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkoudela-dev&hide=PowerShell,Batchfile&theme=radical&count_private=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </h3>
